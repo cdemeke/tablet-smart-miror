@@ -13,8 +13,14 @@ Future features to include are:
 * headline news
 *
 ### Parts
-|           Part           |     $     | Purchase Link |
-|:------------------------:|:---------:|:-------------:|
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+|           Part         |     $   | Purchase Link |
+|------------------------|---------|---------------|
 |                   Tablet | $0 - $100 |      [Amazon Link](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=cheap+tablet)     |
 |           Two way Mirror |    $15    |      [Amazon Link](https://www.amazon.com/12-Acrylic-See-Through-Mirror/dp/B017ONH3EG/ref=sr_1_1?ie=UTF8&qid=1477264646&sr=8-1&keywords=2+way+mirror)     |
 |              Photo Frame |    $32    |      [Michaels Link](http://www.michaels.com/12x12-studio-decor-top-loading-shadowbox/10202509.html)     |
