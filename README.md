@@ -30,24 +30,24 @@ Future features to include are:
 Setting up a tablet based smart mirror is straightforward once you have all the parts. Here is a picture guided instructions list describing how to make one yourself.
 
 ##### Prep Frame
-1. Remove the glass provided by photo frame [pic](https://goo.gl/photos/aTA3xmnby9tKApt58)
-2. Carefully place two way mirror with the blue part on the inside (this side reflects more light). You should also take the clear lamenate at this step. [pic](https://goo.gl/photos/QRETWZPJMGXqb4G3A)
-3. Once everything fits according super glue the space between the mirror and the frame. [pic](https://photos.google.com/share/AF1QipOWYEunJczvNx9uMIEvRip_hoYWn0KDjw7O1IqNSG-rEMnRcBJqgU0f-tkfoAbxmg?key=WktYT0wzQ3NQWHBzbFNDbHVOU25NMnFqamplZjdn)
-4. Take the blue plastic cover off.
+1. Remove the glass provided by photo frame - [pic](https://goo.gl/photos/aTA3xmnby9tKApt58)
+2. Carefully place two way mirror with the blue part on the inside (this side reflects more light). You should also take the clear plastic at this step. - [pic](https://goo.gl/photos/QRETWZPJMGXqb4G3A)
+3. Once everything fits according super glue the space between the mirror and the frame - [pic](https://photos.google.com/share/AF1QipOWYEunJczvNx9uMIEvRip_hoYWn0KDjw7O1IqNSG-rEMnRcBJqgU0f-tkfoAbxmg?key=WktYT0wzQ3NQWHBzbFNDbHVOU25NMnFqamplZjdn)
+4. Take the blue plastic cover off
 5. The frame is now ready for the tablet
-6. 
+
 ##### Prep Tablet
-If the bezzle of your tablet is not black you will need to cover the edges with black constructions paper. I had an old Ipad 2 laying around so I decided to just use that.
-1. Cover non black / non screen section of tablet [pic](https://goo.gl/photos/9WE22zzRmLZzvpeQ8)
-2. Make sure you leave your tablet on next lock mode. [iPad Instructions](https://discussions.apple.com/thread/3640506?tstart=0) [Andriod Instructions](http://android.stackexchange.com/questions/98539/how-do-i-prevent-android-from-going-to-sleep) 
+If the bezzle of your tablet is not black you will need to cover the edges with black construction paper. I had an old Ipad 2 laying around so I decided to just use that.
+1. Cover any non black / non screen section of tablet with construction paper - [pic](https://goo.gl/photos/9WE22zzRmLZzvpeQ8)
+2. Make sure you leave your tablet on never sleep mode. [iPad Instructions](https://discussions.apple.com/thread/3640506?tstart=0) [Andriod Instructions](http://android.stackexchange.com/questions/98539/how-do-i-prevent-android-from-going-to-sleep) 
 
 ##### Tablet + Frame = ❤️
-1. Place the tablet into the frame. (be aware where charging input is as we'll need to keep this powered) [pic](https://goo.gl/photos/ZZR9DvKtNqE37MyR7)
-    * note in my pic the blue screen is still on but you should have it removed by this step. 
-2. Lock the orientation of the screen at this point. (users preference on the layout)
-3. Use the contruction paper to black out the back part of the frame [pic](https://goo.gl/photos/1qujFLaxwiTFiWGJ8)
-4. Plug in charger cable 
-5. Using sissors cut out a small rectangle on the edge of frame for where charger cable will go out of [pic](https://goo.gl/photos/GsFXs7QRPQTknCwi6)
+1. Place the tablet into the frame. (be aware where the charging port is as we'll need to keep this powered) - [pic](https://goo.gl/photos/ZZR9DvKtNqE37MyR7)
+    * note in my pic the blue pastic from the mirror is still on but you should have removed it by this step.
+2. Lock the orientation of the screen at this point. (Your preference on if you like it portrait or landscape mode)
+3. Use the construction paper to black out the back part of the frame - [pic](https://goo.gl/photos/1qujFLaxwiTFiWGJ8)
+4. Plug in charger cable to tablet and outlet 
+5. Using sissors cut out a small rectangle on the edge of the frame for where charger cable will go out of - [pic](https://goo.gl/photos/GsFXs7QRPQTknCwi6)
 6. Remember to keep this next to a power source (or have a long charger cable, as it will run out of battery quickly.
 
 ### More Pics
