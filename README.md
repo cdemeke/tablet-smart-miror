@@ -14,11 +14,6 @@ Future features to include are:
 *
 ### Parts
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 |           Part         |     $   | Purchase Link |
 |------------------------|---------|---------------|
 |                   Tablet | $0 - $100 |      [Amazon Link](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=cheap+tablet)     |
@@ -27,7 +22,7 @@ Future features to include are:
 | Black Construction Paper |     $5    |      [Amazon Link](https://www.amazon.com/Tru-Ray-103061-Construction-Paper-Black/dp/B00563PXHQ/ref=sr_1_2?ie=UTF8&qid=1477264616&sr=8-2&keywords=black+construction+paper)     |
 |               Super Glue |     $4    |      [Amazon Link](https://www.amazon.com/Kwik-503-012-02109-Super/dp/B01CGII1TA/ref=sr_1_13?dd=7Rk8VEn9ka3mgjsnhBPPoA%2C%2C&ddc_refnmnt=pfod&ie=UTF8&qid=1477264689&sr=8-13&keywords=super+glue&refinements=p_97%3A11292772011)     |
 
-**Total Cost**: $1,000
+**Total Cost**: $56 - $156
 
 ### Set Up
 Setting a smart mirror is straightforward once you have all the parts. Here is a picture described set up.
