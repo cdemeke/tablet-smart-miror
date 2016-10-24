@@ -1,5 +1,9 @@
 # Tablet based Smart Mirror
 
+![Smart Mirror Pic](https://s17.postimg.org/mqxpyyj7z/DSC00071.jpg "Smart Mirror")
+
+
+
 ### Features
 Currently, the tablet smart mirror offers the following features:
 * time (am/pm)
