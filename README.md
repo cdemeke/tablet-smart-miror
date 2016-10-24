@@ -2,8 +2,6 @@
 
 ![Smart Mirror Pic](https://s17.postimg.org/mqxpyyj7z/DSC00071.jpg "Smart Mirror")
 
-
-
 ### Features
 Currently, the tablet smart mirror offers the following features:
 * time (am/pm)
@@ -15,8 +13,8 @@ Future features to include are:
 * citibike information
 * stock prices
 * headline news
-*
-### Parts
+
+## Parts
 
 |           Part         |     $   | Purchase Link |
 |------------------------|---------|---------------|
@@ -28,8 +26,8 @@ Future features to include are:
 
 **Total Cost**: $56 - $156
 
-### Set Up
-Setting a smart mirror is straightforward once you have all the parts. Here is a picture described set up.
+## Set Up
+Setting up a tablet based smart mirror is straightforward once you have all the parts. Here is a picture guided instructions list describing how to make one yourself.
 
 ##### Prep Frame
 1. Remove the glass provided by photo frame [pic](https://goo.gl/photos/aTA3xmnby9tKApt58)
