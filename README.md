@@ -52,12 +52,9 @@ If the bezzle of your tablet is not black you will need to cover the edges with 
 5. Using sissors cut out a small rectangle on the edge of frame for where charger cable will go out of [pic](https://goo.gl/photos/GsFXs7QRPQTknCwi6)
 6. Remember to keep this next to a power source (or have a long charger cable, as it will run out of battery quickly.
 
-
-#### 
-
-
-
-
-
 ### More Pics
 [Full Album](https://goo.gl/photos/aKjukZcMyCf219vb9)
+
+### TODO
+
+* Add code 
