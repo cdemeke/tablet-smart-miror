@@ -2,6 +2,10 @@
 
 ![Smart Mirror Pic](https://s17.postimg.org/mqxpyyj7z/DSC00071.jpg "Smart Mirror")
 
+### More Pics
+[Full Album](https://goo.gl/photos/aKjukZcMyCf219vb9)
+
+
 ### Features
 Currently, the tablet smart mirror offers the following features:
 * time (am/pm)
@@ -49,9 +53,6 @@ If the bezzle of your tablet is not black you will need to cover the edges with 
 4. Plug in charger cable to tablet and outlet 
 5. Using sissors cut out a small rectangle on the edge of the frame for where charger cable will go out of - [pic](https://goo.gl/photos/GsFXs7QRPQTknCwi6)
 6. Remember to keep this next to a power source (or have a long charger cable, as it will run out of battery quickly.
-
-### More Pics
-[Full Album](https://goo.gl/photos/aKjukZcMyCf219vb9)
 
 ### TODO
 
