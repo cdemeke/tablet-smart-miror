@@ -1,8 +1,6 @@
 # Tablet based Smart Mirror
 
 ![Smart Mirror Pic](https://s17.postimg.org/mqxpyyj7z/DSC00071.jpg "Smart Mirror")
-
-### More Pics
 [Full Album](https://goo.gl/photos/aKjukZcMyCf219vb9)
 
 
